@@ -1,0 +1,16 @@
+main {
+    height: calc(100vh - 150px);
+    overflow: scroll;
+    @apply bg-gray-200
+}
+
+h1 {
+    @apply flex justify-center
+}
+
+.card{
+    min-width: 500px;
+    min-height: 1000px;
+    border: 2px #ccc solid;
+    border-radius: 20px;
+}

@@ -5,10 +5,7 @@ export default function TheFooter (){
     return (
         <>
         <footer>
-           <ul>
-                <li>chi siamo</li>
-                <li>dicono di noi</li>
-           </ul>
+            questo è il footer
         </footer>
     </>
     )

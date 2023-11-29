@@ -1,0 +1,41 @@
+.card{
+    margin: 60px auto;
+    width: 600px;
+    height: 600px;
+    border: 2px solid #929292;
+    border-radius: 30px;
+    background-color: #fff;
+}
+
+.cardHead{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    height: 50%;
+    font-weight: 300;
+    font-size: 50px;
+    border-radius: 27px 27px 0 0;
+    padding: 30px;
+    background-color: #929292;
+}
+.cardBody {
+    padding: 30px;
+}
+
+.cardBody>h3{
+    
+    font-weight: 900;
+    font-size: x-large;
+}
+
+.cardBody>p {
+    margin: 20px 0;
+}
+
+.btn {
+    color: #fff;
+    background-color: #ffa600;
+    padding: 5px;
+    margin-top: 8px
+}
